@@ -51,6 +51,7 @@ h2 {
   box-shadow: 0 0 10px #b8b8b8;
   outline-offset: 5px;
   outline: 2px dashed #0000b0;
+  cursor: pointer;
 }
 
 img {
